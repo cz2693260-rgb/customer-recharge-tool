@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/cz2693260-rgb/customer-recharge-tool/releases/latest/download/customer-recharge-tool.exe",
+  "release_notes": "第一个正式版本：支持客户ID批量充值统计、排除退款、导出Excel报表。"
+}
